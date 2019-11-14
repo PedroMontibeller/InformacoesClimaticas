@@ -68,3 +68,4 @@ function traduzirDescricao(descricao){
 window.onload = function(){
     getClima();
 };
+//aa
